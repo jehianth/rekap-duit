@@ -2,10 +2,9 @@
 Web untuk mencatat keuangan harian.
 
 # tech
-- reactjs
-- mongodb
+MERN
 
-# sub-tech
+# package
 - express
 - cors
 - mongoose
