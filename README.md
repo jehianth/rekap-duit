@@ -15,4 +15,5 @@ Web untuk mencatat keuangan harian.
 idk how to connect api in vercel
 
 # screenshot
-![image](https://user-images.githubusercontent.com/55863992/233225998-0a03f3b2-2015-4b46-8bdc-59805522a946.png)
+![image](https://user-images.githubusercontent.com/55863992/233226050-fc2e0606-0eeb-4b40-ac2d-addc3b09099b.png)
+
